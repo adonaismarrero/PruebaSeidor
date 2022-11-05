@@ -1,0 +1,9 @@
+Credenciales Cuenta Azure:
+email: caraballo.liliana@gmail.com
+clave: Centruino14*
+
+Datos Conexión SQL:
+Servidor: tcp:srvsqladonais.database.windows.net,1433
+Usuario: admsql
+Clave: Centuinfo14*
+Base de Datos: Ejercicios
